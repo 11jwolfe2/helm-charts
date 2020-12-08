@@ -1,0 +1,6 @@
+apiVersion: v1
+appVersion: "1.0"
+description: Lidarr - Automatic downloader for music :)
+name: lidarr
+version: 0.1.0
+icon: https://11jwolfe2.github.io/helm-charts/lidarr/logo/lidarr.png
