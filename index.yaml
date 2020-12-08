@@ -3,12 +3,12 @@ entries:
   lidarr:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-12-08T10:45:13.4419175-05:00"
+    created: "2020-12-08T10:52:39.8766259-05:00"
     description: Lidarr - Automatic downloader for music :)
-    digest: 5646d322e9a4a402d2342ce94458d2fad5d24bfd2bbf257f5b242cf486e768db
+    digest: b16a0bdb3e09e15c49db2216767f570f55c281bfc59fd6cd6a109f3ddb047ff1
     icon: https://11jwolfe2.github.io/helm-charts/lidarr/logo/lidarr.png
     name: lidarr
     urls:
     - lidarr-0.1.0.tgz
     version: 0.1.0
-generated: "2020-12-08T10:45:13.4389245-05:00"
+generated: "2020-12-08T10:52:39.8596706-05:00"
